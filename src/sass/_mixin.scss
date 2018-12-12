@@ -1,0 +1,7 @@
+@mixin section {
+    padding: $padding-2;
+    position: relative;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
