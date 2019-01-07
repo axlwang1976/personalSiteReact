@@ -2,7 +2,7 @@
 將原本的個人網站轉換為 React 版本
  
 ## 使用技術
-React: create-react-app, react-router-dom, React CSS module
+React: create-react-app, react-router-dom, React CSS module<br>
 Others: 同 personalSite
 
 ## 說明
